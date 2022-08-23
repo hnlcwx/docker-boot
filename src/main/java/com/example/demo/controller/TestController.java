@@ -19,6 +19,7 @@ public class TestController {
 
     @RequestMapping("/test/index")
     public String index(){
+        System.out.println("hello git");
         return "服务端口号："+"\t"+port+"\t"+ UUID.randomUUID().toString();
     }
 }
