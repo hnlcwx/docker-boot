@@ -9,6 +9,7 @@ public class TestMain {
         System.out.println("master-test");
         System.out.println("hello git4");
         System.out.println("hot-test");
+        System.out.println("pull-test");
     }
 
     public void test1(){
