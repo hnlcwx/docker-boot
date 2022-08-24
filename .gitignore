@@ -1,4 +1,5 @@
 *.idea/
+*.mvn/
 *.pyc
 __pycache__/
 *.iml
