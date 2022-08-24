@@ -9,4 +9,8 @@ public class TestMain {
         System.out.println("master-test");
         System.out.println("hot-test");
     }
+
+    public void test1(){
+
+    }
 }
